@@ -1,0 +1,6 @@
+print("hello world")
+print("My name is Samar")
+print("I am 10 years old")
+print("My favorite food is chicken nuggets")
+print("My favorite colors are yellow and blue")
+print("My favorite book is The Magic Misfits")
