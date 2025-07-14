@@ -1,0 +1,5 @@
+name =input("enter a name")
+object =input("enter an object")
+resource =input("enter a resource that helped you get through a tough time")
+place =input("enter a place")
+print(name,"sat on a",place,"and accidently fell into a",resource,"that gave him a",object,"that let him break the wall to get back home")

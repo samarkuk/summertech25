@@ -1,0 +1,8 @@
+email =input("enter your email ")
+password =input(" enter your password ")
+name =input("enter your name ")
+gender =input("enter your gender ")
+print ("hey", name, "you have successfully created your account")
+print ("your email is " ,email)
+print ("your password is",password)
+print ("your email is",email)
