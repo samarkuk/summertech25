@@ -1,0 +1,13 @@
+button{
+    padding: 3rem;
+    background-color: orange;
+    color: white;
+}
+input{
+    background-color: aliceblue;
+    color: white;
+    padding: 3rem;
+body{
+    text-align: center;
+    font-family: Arial;
+}
