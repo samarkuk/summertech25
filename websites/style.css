@@ -1,0 +1,24 @@
+button{
+    background-color: orange;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius:100%;
+    width:6rem;
+    height:6rem;
+    font-size: 32px;
+}
+input{
+    background-color: aliceblue;
+    color: white;
+    width: 30rem;
+    height: 5rem;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+}
+body{
+    text-align: center;
+    font-family: Arial;
+}
